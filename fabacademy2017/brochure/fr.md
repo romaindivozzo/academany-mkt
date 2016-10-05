@@ -1,6 +1,6 @@
 Brochure v0.2
 
-La Fab Academy est le programme d'éducation distribuée du réseau international des fablabs. Ce programme porte sur l'enseignement des principes et des applications de le fabrication numérique (personnelle ?).
+La Fab Academy est le programme d'éducation distribuée du réseau international des fablabs. Ce programme porte/se concentre sur l'enseignement des principes et des applications de la fabrication numérique personnelle.
 
 --
 
