@@ -4,7 +4,7 @@ La Fab Academy est le programme d'éducation distribuée du réseau internationa
 
 --
 
-La mission de la Fab Academy est d'encadrer et de former techniquement les publics des fablabs afin de (stimuler) la participation au réseau des fablabs et la prise d'initiative au sein du réseau internationale des Fablabs.
+La mission de la Fab Academy est d'encadrer et de former techniquement les publics des fablabs afin de (stimuler) la participation au réseau des fablabs et la prise d'initiative au sein du réseau international des Fablabs.
 
 The role of Fab Academy is to initiate, mentor and technically train new students for participation and leadership in the global Fab Lab Network community.
 
@@ -15,11 +15,11 @@ It’s how we train our teachers.
 
 --
 
-Et c'est également une manière d'acquérir
+Et c'est également une manière d'acquérir de nombreuses compétences en fabrication numérique, électronique, moulage et matériaux composites sur un temps très court de 19 semaines.
 It’s also a great way to gain exposure to a wide variety of digital fabrication, electronics, molding and casting and composites practices and build skills in a short amount of time (typically 19 weeks).
 
 --
-
+C'est un cursus réservé a ceux qui ne lâchent rien, les gratifications sont nombreuses.
 It’s not for the faint of heart but the rewards are great.
 
 --
