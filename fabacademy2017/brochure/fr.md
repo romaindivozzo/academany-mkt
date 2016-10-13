@@ -158,11 +158,12 @@ Where can I follow the course?
 Fab Academy requires you to attend the lectures and local sessions in a Fab Academy node during the whole course, which is a fab lab with the required materials and resources to complete the program. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes. The following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan and Israel, but you can check the complete list of Fab Academy 2017 Nodes here: http://fabacademy.org/2017-nodes-supernodes/
 
 --
-
+Pour chaque semaine, quelle est le nombre minimum d'heures à dédier a la Fab Academy ?
 How much time does it take?
 
 --
 
+Le minimum de temps d'étude requis pour la Fab Academy est de 20h/semaine.
 The time commitment is about 16+ hours a week at minimum, but could be far greater if the student is highly motivated, does not possess the background for a particular unit (or units) or just wants to really throw themselves into the program.
 
 --
