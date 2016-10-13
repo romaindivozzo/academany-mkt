@@ -206,17 +206,24 @@ Take a look at the opportunities available at http://jobs.fabeconomy.com as a re
 --
 
 Contact information
-
+-
+Pour contacter les coordinateurs internationals:
 To contact Fab Academy global coordination: coordination@fabacademy.org
-
+-
+Pour des questions concernants les admissions a la Fab Academy: 
 If your questions are related with admissions to the Fab Academy: admissions@fabacademy.org
-
+-
+Pour contacter les fablabs:
 To contact the Fab Labs: www.fablabs.io/labs
-
+-
+Pour contacter la Fab foundation:
 To contact Fab Foundation: info@fabfoundation.org
-
+-
+Joindre le formulaire
 Join Form
-
+-
+Pour candidater à la Fab Academy en tant qu'étudiant:
 To apply for Fab Academy as a Student: http://fabacademy.org/machform/view.php?id=19042
-
+-
+Pour candidater a la Fab Academy en tant que Node:
 To apply for Fab Academy as a Node (fab lab): http://fabacademy.org/machform/view.php?id=17338
