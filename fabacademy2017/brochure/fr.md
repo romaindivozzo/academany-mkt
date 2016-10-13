@@ -85,7 +85,7 @@ What will I learn?
 
 --
 
-En quelques mots: design, fabrication numérique, électronique, l'informatique, et tout ce qui existe entre ces champs complémentaires.
+En quelques mots: design, fabrication numérique, électronique, informatique, et tout ce qui existe entre ces champs complémentaires.
 In few words: design, digital fabrication, electronics, software and everything in between.
 
 --
@@ -116,29 +116,61 @@ Project development
 Project presentation
 What machines will I learn to use?
 
+--
+
 A computer-controlled laser cutter, for press-fit assembly of 3D structures from 2D parts.
+Une découpeuse laser contrôlée par ordinateur pour concevoir des assemblages en force d'objets tridimentionnels a partir d'objets bi-dimensionnels.
+
+--
+
 A large (4'x8') numerically-controlled milling machine, for making furniture (and larger) sized parts.
+
+--
+
 A vinyl cutter, to produce printing masks, flexible circuits, and antennas.
+
+--
+
 A desktop sized precision (micron resolution) milling machine to make three-dimensional molds and surface-mount circuit boards.
+
+--
+
 A 3D Scanner and a 3D Printer
+
+--
+
 Specific machine models (thoroughly tested and highly recommended but not required) are listed in the Fab Lab Inventory
 What should I know before starting Fab Academy
 
+--
+
 You should be able to use a computer and have basic knowledge of some of the topics discussed in the course. Global sessions and some labs local sessions are in english. You should also be able to understand, speak and write fluent English. Some labs offer pre-academy classes to bring you up to speed to the course before it starts. Confirm with you local lab.
+
+--
 
 Where can I follow the course?
 
+--
+
 Fab Academy requires you to attend the lectures and local sessions in a Fab Academy node during the whole course, which is a fab lab with the required materials and resources to complete the program. Luckily the Fab Lab Network is present all over the world and you can find a Fab Academy Node nearby to follow the classes. The following countries host Fab Academy nodes: Netherlands, Spain, UK, Iceland, Finland, Italy, France, Chile, Mexico, Peru, Colombia, Ecuador, India, New Zeeland, USA, Canada, China, South Korea, Japan, Taiwan and Israel, but you can check the complete list of Fab Academy 2017 Nodes here: http://fabacademy.org/2017-nodes-supernodes/
+
+--
 
 How much time does it take?
 
+--
+
 The time commitment is about 16+ hours a week at minimum, but could be far greater if the student is highly motivated, does not possess the background for a particular unit (or units) or just wants to really throw themselves into the program.
+
+--
 
 Tuition fees
 
 Fab Academy Diploma costs 5000 (USD/EUR). The currency is determined by local lab.
 
 Included in the costs:
+
+--
 
 All the basic course materials
 Personal space in Fab Academy Archive with lifetime access and maintenance
@@ -151,17 +183,27 @@ Free software licenses for selected Autodesk and Solidworks software packages du
 Lifetime membership to the Fab Academy Alumni group
 Scholarships
 
+--
+
 You can apply for a partial grant or a scholarship to your local lab, often provided in exchange of some work contribution to the lab.
+
+--
 
 Is there any accreditation?
 
+--
+
 The Fab Academy Diploma will be issued by a distributed Global Evaluation Committee after satisfactorily completing the course of study in the Principles and Applications of Digital Fabrication. Individual certificates will also be issued for students successfully completing individual topics.
+
+--
 
 Will Fab Academy help me find a job?
 
 Many Fab Academy graduates improved their career opportunities after taking the program. There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
 
 Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
+
+--
 
 Contact information
 
