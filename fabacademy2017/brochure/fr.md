@@ -196,10 +196,15 @@ Is there any accreditation?
 The Fab Academy Diploma will be issued by a distributed Global Evaluation Committee after satisfactorily completing the course of study in the Principles and Applications of Digital Fabrication. Individual certificates will also be issued for students successfully completing individual topics.
 
 --
-
+Est-ce que la Fab Academy m'aidera à trouver un emploi/job ?
 Will Fab Academy help me find a job?
+-
+Un nombre certain de diplomés de la Fab Academy ont su tirer partie des compétences acquises durant ce programme. 
+Many Fab Academy graduates improved their career opportunities after taking the program. 
 
-Many Fab Academy graduates improved their career opportunities after taking the program. There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
+There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. 
+
+Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
 
 Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
 
