@@ -50,7 +50,7 @@ Every week, prof. Neil Gershenfeld holds a global lecture on a different topic
 
 --
 
-Les instructeurs encadrent les "travaux-pratiques" et partagent leurs connaissances pratiques afin d'aider les étudiants à mettre en oeuvre leur devoir de la semaine.
+Les instructeurs certifiés encadrent les "travaux-pratiques" et partagent leurs connaissances pratiques afin d'aider les étudiants à mettre en oeuvre leur devoir de la semaine.
 
 Instructors in local labs provide hands-on activities on the topic, and offer their their practical knowledge to help students develop the week's assignment.
 
@@ -90,30 +90,33 @@ In few words: design, digital fabrication, electronics, software and everything 
 
 --
 
-Chaque mercredi, la FA s'attardent sur un sujet en particulier, partageant une vision globale de tout ce qui touche de près ou de loin à la fabrication numérique.
+De fin janvier à fin juin, chaque mercredi, Neil donne une classe par visio-conférence sur un technique couramment usitée dasn les fablabs, partageant par la même occasion une vision globale de tout ce qui touche de près ou de loin à la fabrication numérique.
 Every Wednesday Fab Academy focuses on a different topic, giving a global view of everything related to digital fabrication:
 
-Principles and practices of digital fabrication
-Project management
-Computer aided design
-Computer controlled cutting
-Electronics production
-3D Scanning and printing
-Electronics design
-Computer controlled machining
-Embedded programming
-Mechanical design
-Machine design
-Input Devices
-Molding and Casting
-Output devices
-Composites
-Networking and communications
-Interface and application programming
-Applications and implications of digital fabrication
-Invention, intellectual property and income
-Project development
-Project presentation
+Principles and practices of digital fabrication/
+Project management/Management-conduite de projet
+Computer aided design/Dessin assiste par ordinateur
+Computer controlled cutting/Découpe assistée par ordinateur
+Electronics production/Fabrication d'électronique
+3D Scanning and printing/Scanner 3D and Impression 3D
+Electronics design/ Design de circuit électronique
+Computer controlled machining/Usinage contrôlé par ordinateur
+Embedded programming/Programmation embarquée
+Mechanical design/Design mécanique
+Machine design/Design de machine
+Input Devices/Périphérique d'entrée
+Molding and Casting/ Moulage et Fonderie
+Output devices/Périphérique de sortie
+Composites/Matériaux composites
+Networking and communications/Réseau et communication
+Interface and application programming/Interface et programmation d'une application
+Applications and implications of digital fabrication/A pplications et implications de la fabrication numérique
+Invention, intellectual property and income/Invention, propriété intelectuelle et revenus
+Project development/Développement de projet
+Project presentation/Présentation de projet final
+
+--
+Quelles machine vais-je apprendre à utiliser ?
 What machines will I learn to use?
 
 --
