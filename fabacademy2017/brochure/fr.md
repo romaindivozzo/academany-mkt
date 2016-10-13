@@ -201,9 +201,9 @@ Will Fab Academy help me find a job?
 -
 Un nombre certain de diplomés de la Fab Academy ont su tirer partie des compétences acquises durant ce programme. 
 Many Fab Academy graduates improved their career opportunities after taking the program. 
-
+Sur le marche du travail, la demande d'experts en fabrication numérique et de fablab managers de talent est forte, cependant, les compétences obtenues par la complétion de ce cursus peuvent etre transposées a toute discipline impliquant du prototypage rapide.
 There's high demand in the job market for talented digital fabrication experts and fab lab managers, but the knowledge offered by the course can be applied to any profession requiring rapid prototyping. 
-
+Certains diplomés de la Fab Academy ont créé leur entreprise en proposant des objets de design produits localement, des jouet/jeux, des prestations de formations ou de consulting.
 Many graduates also started their own businesses offering locally produced design objects, toys, training services and consulting.
 
 Take a look at the opportunities available at http://jobs.fabeconomy.com as a reference for jobs coming from the Fab Lab Network.
