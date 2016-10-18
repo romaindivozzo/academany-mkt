@@ -40,7 +40,7 @@ How does it work?
 
 --
 
-Le cursus se déroule de mi-janvier à fin juin.
+Chaque année, le cursus se déroule de fin-janvier à fin-juin, avec un temps pour terminer tout ce qui n'a pas pu l'être entre fin juin et début juillet.
 The program takes place from mid January to late June
 
 --
